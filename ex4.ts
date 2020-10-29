@@ -1,5 +1,5 @@
 interface MyIntegers
-{
+{old
    s:number;
    t:string;
    myFunc();
